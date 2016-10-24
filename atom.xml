@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
-  
+  <title>Wuht&#39;s Notes</title>
+  <subtitle>s</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wuht.coding.me/"/>
@@ -9,7 +9,7 @@
   <id>http://wuht.coding.me/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Wuht</name>
     
   </author>
   
